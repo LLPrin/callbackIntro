@@ -22,6 +22,6 @@ function actionWhenFound(index) {
 
 //calling upon findWaldo function
 //pass through arr and actionWhenFound (= found) is used as an argument
-//find Waldo in list, print out where he is in list
+//find Waldo in list, print out where he is in lists
 findWaldo(["Alice", "Waldo", "Bob", "Winston"], actionWhenFound);
 
