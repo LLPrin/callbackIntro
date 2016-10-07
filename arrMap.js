@@ -5,6 +5,7 @@ var input = [
 ];
 
 //inputNumsIndex and inputArr aren't needed. Func only uses inputNums
+//callback function
 var result = input.map(function (inputNums, inputNumsIndex, inputArr){
   //Square x & y
   // add results together
